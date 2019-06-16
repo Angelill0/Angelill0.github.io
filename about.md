@@ -36,17 +36,17 @@ I am a **SANS gold Advisor** for the SANS institute. [https://www.giac.org/certi
 
 
 ## My Master Thesis papers and presentations
-+ Thesis for the Master in Security and Forensic at Dublin City University with title "Securely Deploying Android Devices" [ paper](https://github.com/Angelill0/thesis/MSSF-thesis.pdf) [ October 2011]
-+ Thesis for my MSc / BSc in Computer Science "An architecture purpose for Intrusion Detecion System with correlation" [presentation](https://github.com/Angelill0/thesis/aalonso-PFC-presentacion.pdf) and [paper](https://github.com/Angelill0/thesis/aalonso-PFC.pdf)
++ Thesis for the Master in Security and Forensic at Dublin City University with title "Securely Deploying Android Devices" [ paper](https://github.com/Angelill0/thesis/blob/master/MSSF-thesis.pdf) [ October 2011]
++ Thesis for my MSc / BSc in Computer Science "An architecture purpose for Intrusion Detecion System with correlation" [presentation](https://github.com/Angelill0/thesis/blob/master/aalonso-PFC-presentacion.pdf) and [paper](https://github.com/Angelill0/thesis/blob/master/aalonso-PFC.pdf)
 + 
 
 
 
 ## Old Documents / Handbooks
-+ [ModSecurity for Apache](https://github.com/Angelill0/manuals/ModSecurity.pdf)
-+ [PIX	(Cisco PIX Firewall)](https://github.com/Angelill0/manuals/lirc.pdf)
-+ [Iptables](https://github.com/Angelill0/manuals/iptables.pdf)
-+ [LIRC with Avermedia](https://github.com/Angelill0/manuals/PIX.pdf)
++ [ModSecurity for Apache](https://github.com/Angelill0/manuals/blob/master/ModSecurity.pdf)
++ [PIX	(Cisco PIX Firewall)](https://github.com/Angelill0/manuals/blob/master/lirc.pdf)
++ [Iptables](https://github.com/Angelill0/manuals/blob/master/iptables.pdf)
++ [LIRC with Avermedia](https://github.com/Angelill0/manuals/blob/master/PIX.pdf)
 
 
 ### Contact me
