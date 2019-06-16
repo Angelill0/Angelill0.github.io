@@ -34,11 +34,13 @@ I am a **SANS gold Advisor** for the SANS institute. [https://www.giac.org/certi
 + Intrusion Analysis Using Windows PowerShell [May 2014]. Author: Michael Week. [paper](https://www.sans.org/reading-room/whitepapers/detection/intrusion-analysis-windows-powershell-34585)
 +  An Early Malware Detection, Correlation, and Incident Response System with Case Studies [January 2014]. Author: Yaser Mansour [paper](https://www.sans.org/reading-room/whitepapers/detection/early-malware-detection-correlation-incident-response-system-case-studies-34485)
 
-
-## My Master Thesis papers and presentations
+ 
+## My Master Thesis papers and presentations
 + Thesis for the Master in Security and Forensic at Dublin City University with title "Securely Deploying Android Devices" [ paper](https://github.com/Angelill0/thesis/blob/master/MSSF-thesis.pdf) [ October 2011]
-+ Thesis for my MSc / BSc in Computer Science "An architecture purpose for Intrusion Detecion System with correlation" [presentation](https://github.com/Angelill0/thesis/blob/master/aalonso-PFC-presentacion.pdf) and [paper](https://github.com/Angelill0/thesis/blob/master/aalonso-PFC.pdf)
-+ 
++ Thesis for my MSc / BSc in Computer Science "An architecture purpose for Intrusion Detecion System with correlation" [September 2005] [presentation](https://github.com/Angelill0/thesis/blob/master/aalonso-PFC-presentacion.pdf) and [paper](https://github.com/Angelill0/thesis/blob/master/aalonso-PFC.pdf) [ september 2015]
+
+##  Presentations and slides
++ ISSA Ireland Chapter presentation: Securely Deploying Android Devices (ISSA Chapter Ireland) [ March2011] - [slides](https://www.slideshare.net/Angelill0/securely-deploying-android-device-issa-ireland)
 
 
 
