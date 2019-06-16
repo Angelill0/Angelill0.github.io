@@ -1,5 +1,5 @@
 
-My name is Angel Alonso-Parrizas and I am a security researcher since 2005. During my professional career I have worked in different security roles across different countries, for private corporations, Governs and Universities.  Among all the differente positions in the private sector, I have worked at major telecommunication companies (fortune 500), like Verizon (http://www.verizon.com) and France Telecom (http://www.orange.com) and in major financial companies.
+My name is Angel Alonso-Parrizas and I am a security researcher since 2005. During my professional career I have worked in different security roles across different countries, for private corporations, Governs and Universities.  Among all the differente positions in the private sector, I have worked at major telecommunication companies (fortune 500), like Verizon (http://www.verizon.com) and [France Telecom] (http://www.orange.com) and in major financial companies.
 In the public sector, I have worked as a Security Engineer for the regional Goverment of Valencia - Spain (http://www.gva.es), as a collaborator teacher at Escola Tecnica Superior de Enginyeria at University of Valencia (http://etse.uv.es) and Escuela Politecnica Superior of Elche at University of Elche (www.umh.es).
 
 
