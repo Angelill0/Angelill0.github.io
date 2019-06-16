@@ -1,15 +1,13 @@
----
-layout: page
-title: About
-permalink: /about/
----
-
-My name is Angel Alonso-Parrizas and I've been working [angel alonso](http://www.uv.es)
-
-with a Bachelor's and master's degree in Computer Science, a Bachelor's degree in Telematic Engineering (Telecommunication Engineering) from Escuela Tecnica Superior de Ingenieria at University of Valencia (http://www.uv.es), a Master in Security and Forensic from Dublin City University. Also, he is one of the few person in the world who holds the GIAC Security Expert certification GSE and he also holds many other professional Security certifications CISM (#0707754) and CISA (#0863519) from ISACA,CISSP (#101966) from ISC2, and the certifications/certificates from SANS institute GSE (Giac Security Expert) (#48),GCIA (#02671),GCFA (#03428),GCIH (#06081),GCFW (#01476),GSNA (#01863),GSEC (#28423),GREM (#3623),SSP-MPA (#00091), and SSP-CNSA (#00261). (SANS Profile)
 
 
-During his professional career he has worked in different security roles for private corporations, Governs and Universities. Among all the different positions, he has worked as a Security Engineer for the local Government of Valencia (in Spain), the Generalitat Valenciana in the Autoritat de Certificacion de la Comunitat Valencia, ACCV, as a collaborator teacher at Escola Tecnica Superior de Enginyeria (University of Valencia) and Escuela Politecnica Superior of Elche (University of Elche). Nowadays he is working as Cyber Threat Researcher in Zurich.
+My name is Angel Alonso-Parrizas and I am a security researcher since 2005. During my professional career I have worked in different security roles across different countries, for private corporations, Governs and Universities.  Among all the differente position in the private sector, I have worked at major telecommunication companies (fortune 500), like [Verizon] (http://www.verizon.com) and [France Telecom] (http://www.orange.es) and in the Financial sector in Switzerland.
+In the public sector, I have worked as a Security Engineer for the regional [Goverment of Valencia - Spain] (http://www.gva.es), as a collaborator teacher at [Escola Tecnica Superior de Enginyeria at University of Valencia] (http://etse.uv.es) and [Escuela Politecnica Superior of Elche at University of Elche] (www.umh.es).
+
+
+I hold a Bachelor's and master's degree in Computer Science, a Bachelor's degree in Telematic Engineering (Telecommunication Engineering) from [Escuela Tecnica Superior de Ingenieria at University of Valencia] (http://www.uv.es), a Master in Security and Forensic from [Dublin City University] (http://www.uv.es). I hold  several security  professional Security certifications, including SANS GSE [(Giac Security Expert)] (https://www.giac.org/certification/security-expert-gse), GCIH, GCIA, GREM, GMOB, GPPA, GCFA, GSNA, GSEC, GCTI, ISC2 CISSP, ISACA CISM & CISA.
+
+
+
 
 # Conferences,publications and papers
 
