@@ -9,7 +9,7 @@ During my career, I have worked as **security analyst / engineer, intrusion anal
 
 # Papers, slides, presentations, publications
 
-## SANS paper published by me
+## SANS papers published by me
 
 +  Analysis of a Multi Architecture Linux Rootkit (GREM - Reverse Engineering Malware) [June 2019]
 + Forensic Analysis On Android: A Practical Case (GMOB - GIAC Mobile Security) [October 2015] [paper](https://www.sans.org/reading-room/whitepapers/mobile/forensic-analysis-android-practical-case-36317)
@@ -18,7 +18,7 @@ During my career, I have worked as **security analyst / engineer, intrusion anal
 
 
 
-## SANS Gold Advisor Papers
+## SANS Gold Advisor papers
 I am a **SANS gold Advisor** for the SANS institute. [https://www.giac.org/certifications/gold](SANS GOLD). These are the papers I've mentored so far:
 + Intrusion Detection Through Relationship Analysis [October 2016]. Author: Patrick Neise's. [paper](https://www.sans.org/reading-room/whitepapers/detection/intrusion-detection-relationship-analysis-37352)
 + Neutrino Exploit Kit Analysis and Threat Indicators  [April 2016]. Author: Luis Rocha [paper](https://www.sans.org/reading-room/whitepapers/detection/neutrino-exploit-kit-analysis-threat-indicators-36892)
