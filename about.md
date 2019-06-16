@@ -35,6 +35,10 @@ I am a **SANS gold Advisor** for the SANS institute. [https://www.giac.org/certi
 +  An Early Malware Detection, Correlation, and Incident Response System with Case Studies [January 2014]. Author: Yaser Mansour [paper](https://www.sans.org/reading-room/whitepapers/detection/early-malware-detection-correlation-incident-response-system-case-studies-34485)
 
 
+## My Master Thesis papers and presentations
++ Thesis for the Master in Security and Forensic at Dublin City University with title "Securely Deploying Android Devices" [ paper](https://github.com/Angelill0/thesis/MSSF-thesis.pdf) [ October 2011]
++ Thesis for my MSc / BSc in Computer Science "An architecture purpose for Intrusion Detecion System with correlation" [presentation](https://github.com/Angelill0/thesis/aalonso-PFC-presentacion.pdf) and [paper](https://github.com/Angelill0/thesis/aalonso-PFC.pdf)
++ 
 
 
 
