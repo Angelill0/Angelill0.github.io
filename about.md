@@ -17,7 +17,7 @@ During my career, I have worked as **security analyst / engineer, intrusion anal
 
 ## SANS papers published by me
 
-+  Analysis of a Multi Architecture Linux Rootkit (GREM - Reverse Engineering Malware) [June 2019]
++  Analysis of a Multi Architecture Linux Rootkit (GREM - Reverse Engineering Malware) [June 2019] [paper](https://www.sans.org/reading-room/whitepapers/reverseengineeringmalware/analysis-multi-architecture-ssh-linux-backdoor-39015)
 + Forensic Analysis On Android: A Practical Case (GMOB - GIAC Mobile Security) [October 2015]. [paper](https://www.sans.org/reading-room/whitepapers/mobile/forensic-analysis-android-practical-case-36317)
 + Monitoring Network Traffic for Android Devices (GCIA - GIAC Intrusion Analyst) [January 2013]. [paper](https://www.sans.org/reading-room/whitepapers/detection/monitoring-network-traffic-android-devices-34097)
 + Securely Deploying Android Device (GCIH - GIAC Incident Handling) [October 2011]. [paper](https://www.sans.org/reading-room/whitepapers/sysadmin/securely-deploying-android-devices-33799#page=1&zoom=auto,-13,792)
