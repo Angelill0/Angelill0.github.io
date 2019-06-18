@@ -49,7 +49,7 @@ I am a **SANS gold Advisor** for the SANS institute. [https://www.giac.org/certi
 + Presentation about 'forensic analysis' [part1](https://github.com/Angelill0/slides_presentations/blob/master/AF_v3.pdf) & [part 2](https://github.com/Angelill0/slides_presentations/blob/master/AF_v3_2.pdf) [January 2005]
 + Presentation about 'forensic analysis' at Linux Party 2005 [slides](https://github.com/Angelill0/slides_presentations/blob/master/partyv-forense.pdf) [March 2005]
 + Presentation about 'Cable Modems Security (how to hack it!) !') to the students of fifth course of Computer Engineering at the High Technical School of Engineering in the University of Valencia. [doc](https://github.com/Angelill0/slides_presentations/blob/master/uncapping-doc.pdf) and [slides](https://github.com/Angelill0/slides_presentations/blob/master/uncapping-presentacion.pdf) [November 2004]
-+ Presentation about configuring Peripherals in Linux environments in Linux' at Party third edition in the University of Valencia [March 2003] (Spanish)
++ Presentation about configuring Peripherals in Linux environments in Linux' at Party third edition in the University of Valencia [March 2003] [presentation](https://github.com/Angelill0/slides_presentations/blob/master/partyv-forense.pdf)(Spanish)
 + Presentation about 'Security in LAN (ARP Spoofing and other Layer 2 attacks)' to the students of the fourth course of Computer Engineering at the High Technical School of Engineering in the University of Valencia ((PDF) [paper](https://github.com/Angelill0/slides_presentations/blob/master/seguridad-sw-doc.pdf) & [presentation](https://github.com/Angelill0/slides_presentations/blob/master/seguridad-sw-presentacion.pdf) [November 2003] (Spanish)
 
 ## Blog posts and magazines articles
